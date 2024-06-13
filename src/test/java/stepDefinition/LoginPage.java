@@ -1,10 +1,18 @@
 package stepDefinition;
 
-import io.cucumber.java.en.Given;
+import io.cucumber.java.en.When;
+
+
+import static pages.HomePage.benepiklogo;
+
+import static pages.LoginPage.Bpluslogin;
+import static pages.LoginPage.SubmitPhonenumber;
+
 
 public class LoginPage {
-    @Given("User navigate to the login page")
-    public void user_navigate_to_the_login_page(){
-
+    @When("User successfully enters phone number")
+    public void user_successfully_enters_phone_number() throws InterruptedException {
+        Bpluslogin();
+        SubmitPhonenumber();
     }
 }
