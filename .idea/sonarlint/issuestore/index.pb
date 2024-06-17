@@ -24,6 +24,4 @@ Q
 Z
 *src/test/java/stepDefinition/HomePage.java,2/f/2f0383df9c08bf96debea8f48b82fbec7363a68d
 X
-(src/test/java/utility/Browserdriver.java,0/d/0d9c5b494925dd732ca85d941860f7366297bbd2
-X
 (src/test/java/utility/BrowserDriver.java,0/7/07a462f2af9bbb83dcf568b77b3f0ab9b55ebe8d

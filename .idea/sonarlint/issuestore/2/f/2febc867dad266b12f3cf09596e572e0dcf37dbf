@@ -1,9 +1,13 @@
 
 y
-java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8××Š2J$9689c46a-1cfa-49e4-bba8-3f35c51052ac
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8ãØ›±‚2J$f3b13a6f-f5c7-4094-94cf-d8acdd798d6d
 g
-java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú8ÊÆŠ2J$d868a673-00cf-490f-9e8a-1eef34e14c35
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú8ãØ›±‚2J$8d46585f-e9d3-4d5e-b651-430c15b92d8a
+y
+java:S1874!"6Remove this use of "implicitlyWait"; it is deprecated.(µ÷®8ãØ›±‚2J$7bdb0ec3-13d9-48ab-8253-626e8aa3aa34
 g
-java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú8ÊÆŠ2J$d782bfbd-5501-4c97-a5f1-ccbeef028520
-g
-java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú8ÊÆŠ2J$54d45c59-7db2-4b59-8ae1-8ff20c29ed6d
+java:S2925""$Remove this use of "Thread.sleep()".(¯ú™ú8äØ›±‚2J$677a3271-6ab1-4886-b10c-ad59fba658be
+f
+java:S2925%"$Remove this use of "Thread.sleep()".(ÿ¯’.8äØ›±‚2J$adcf49f4-a92e-409f-a347-98d68a0b894a
+}
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8äØ›±‚2J$867d7fc7-464b-423d-bb82-dec9ddd1b6c4
